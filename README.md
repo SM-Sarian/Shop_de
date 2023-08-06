@@ -4,7 +4,7 @@
 
 ## About Sarian Shop_de
 
-The Sarian Shop is a Laravel website, developed exclusively for German-language portfolio. The information entered in the database is fake data for the bicycles field. This site is only designed as a work sample, it is intended only for employers and companies that I have sent a job application to. In any case, it will be an honor for me if you check my portfolio and the codes. Also you can check online the website : www.smsarian.ir
+The Sarian Shop is a Laravel website that was developed exclusively for my German-language portfolio. The information entered in the database is fake data for the bicycles field. This site is only designed as a work sample and is intended only for employers and companies that I have sent a job application to. It would be an honor for me if you would check my portfolio and the codes. Also you can check online the website : www.smsarian.ir
 
 
 
@@ -59,4 +59,8 @@ Panel url: http://127.0.0.1:8000/home </br>
 
 ## License
 
-Sarian Shop_de application under the MIT license.
+Copyright (C) 2023 all rights are reserved {Seyed Mohammad Sarian} <{sm.sarian@gmail.com}>
+This file is part of the {Sarian Shop_de} project.
+
+The {Sarian Shop_de} project can not be used/or distributed without the express
+permission of {Seyed Mohammad Sarian} <{sm.sarian@gmail.com}>.
