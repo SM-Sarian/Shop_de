@@ -59,8 +59,9 @@ Panel url: http://127.0.0.1:8000/home </br>
 
 ## License
 
-Copyright (C) 2023 all rights are reserved {Seyed Mohammad Sarian} <{sm.sarian@gmail.com}>
-This file is part of the {Sarian Shop_de} project.
+Copyright (C) 2023 all rights are reserved Seyed Mohammad Sarian </br>
+This file is part of the "Shop_de" project. </br>
 
-The {Sarian Shop_de} project can not be used/or distributed without the express
-permission of {Seyed Mohammad Sarian} <{sm.sarian@gmail.com}>.
+The Shop_de project can not be used/or distributed without the express
+permission of Seyed Mohammad Sarian  </br>
+email : sm.sarian@gmail.com
